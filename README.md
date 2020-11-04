@@ -1,3 +1,5 @@
+**IMPORTANT**: This project was transitional (it was only needed during the code contribution to Eclipse Sirius). It will soon be archived and then removed completely. Please see https://github.com/eclipse-sirius/sirius-emf-json instead.
+
 ## Eclipse Sirius EMF JSON
 
 This project is part of [Eclipse Sirius](http://www.eclipse.org/sirius). It provides a JSON-based implementation of EMF resources which can be used as a drop-in replacement for the default XMI-based format.
